@@ -1,5 +1,5 @@
 # programa_batch
-El objetivo de este script es monitorear las conexiones de red activas y alertar al usuario si se detectan conexiones a IPs que no están en una lista de IPs permitidas. 
+El objetivo de este script es monitorear las conexiones de red activas y alertar al usuario si se detectan conexiones a IPs que no están en una lista de IPs permitidas. :smile:
 
 ## Pasos:
 1. Definir una lista de IPs permitidas.
@@ -61,3 +61,4 @@ pause
 - Guarda el archivo con la extensión .bat, por ejemplo, check_connections.bat.
 - Ejecuta el script haciendo doble clic sobre el archivo o ejecutándolo desde la línea de comandos.
 
+### Este script es una herramienta básica para la detección de conexiones de red sospechosas y puede ser ampliado y mejorado según tus necesidades :smile:
