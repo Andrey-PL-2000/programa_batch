@@ -56,3 +56,8 @@ pause
 4. Alerta al Usuario: Si se detectan conexiones no autorizadas, se muestra una advertencia en la pantalla.
 5. Limpieza: Se elimina el archivo temporal netstat_output.txt.
 
+### Ejecución del Script:
+- Copia el código anterior y pégalo en un archivo de texto.
+- Guarda el archivo con la extensión .bat, por ejemplo, check_connections.bat.
+- Ejecuta el script haciendo doble clic sobre el archivo o ejecutándolo desde la línea de comandos.
+
